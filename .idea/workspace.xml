@@ -4,16 +4,43 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b44ac3f6-eeba-4cfc-b194-de90913b80d8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm5/Five.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm7/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm7/Plate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm7/Seven.java" afterDir="false" />
+    <list default="true" id="b44ac3f6-eeba-4cfc-b194-de90913b80d8" name="Changes" comment="GB">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm10/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm10/Ten.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm10/lesson10/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm10/lesson10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm11/eleven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm11/lesson11/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm11/lesson11/eleven_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm11/lesson11/eleven_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm11/lesson11/sample02/Sample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/CommonResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/CounterThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/CounterThreadV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/MyThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/MyThreadV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/MyThreadV3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/MyThreadV4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/Sample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm12/lesson12/Sample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Eight.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Man.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Robot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Run.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Treadmill.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/empolee/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/empolee/Freelance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/empolee/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/empolee/SalaryComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm8/empolee/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm9/Nine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm9/lesson/Sample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +50,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,16 +75,37 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample01 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample01 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample01 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample01 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample01.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Sample02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ten.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven_1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.eleven_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.gb.hm10.lesson10.Sample.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/gb/handh&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ArrA/Desktop/lesson12&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
@@ -64,13 +113,13 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Seven">
-    <configuration name="Five" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm5.Five" />
+  <component name="RunManager" selected="Application.eleven_1">
+    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.Sample01" />
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm5.*" />
+          <option name="PATTERN" value="ru.gb.hm11.lesson11.sample02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Seven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm7.Seven" />
+    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.Sample01" />
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm7.*" />
+          <option name="PATTERN" value="ru.gb.hm11.lesson11.sample02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,12 +140,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Six" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm6.Six" />
+    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.Sample01" />
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm6.*" />
+          <option name="PATTERN" value="ru.gb.hm11.lesson11.sample02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +153,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="second" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm2.second" />
+    <configuration name="eleven (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.eleven" />
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm2.*" />
+          <option name="PATTERN" value="ru.gb.hm11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,12 +166,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="three" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm3.three" />
+    <configuration name="eleven (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.eleven" />
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm3.*" />
+          <option name="PATTERN" value="ru.gb.hm11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,26 +179,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
+    <configuration name="eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.eleven" />
+      <module name="lesson1java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hm11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
+    <configuration name="eleven_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.eleven_1" />
+      <module name="lesson1java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hm11.lesson11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="eleven_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.eleven_2" />
+      <module name="lesson1java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ru.gb.hm11.lesson11.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Seven" />
-        <item itemvalue="Application.Six" />
-        <item itemvalue="Application.Five" />
-        <item itemvalue="Application.three" />
-        <item itemvalue="Application.second" />
+        <item itemvalue="Application.eleven_1" />
+        <item itemvalue="Application.eleven_2" />
+        <item itemvalue="Application.eleven" />
+        <item itemvalue="Application.eleven (5)" />
+        <item itemvalue="Application.eleven (4)" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-1.8.0_402-corretto-1.8.0_402-f644763e9732-af3fa2b8" />
+        <option value="jdk-20.0.2-azul-20.0.2-3183f394aec4-4edb7f01" />
+      </set>
+    </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -179,7 +264,42 @@
       <workItem from="1698318012725" duration="2441000" />
       <workItem from="1698404513536" duration="780000" />
       <workItem from="1698405569329" duration="12606000" />
+      <workItem from="1698440688242" duration="370000" />
+      <workItem from="1698744837353" duration="2166000" />
+      <workItem from="1698828918399" duration="12046000" />
+      <workItem from="1699351087276" duration="2832000" />
+      <workItem from="1699433654850" duration="8734000" />
+      <workItem from="1700040899456" duration="1095000" />
+      <workItem from="1700042760385" duration="1243000" />
+      <workItem from="1700135967706" duration="1265000" />
+      <workItem from="1700215787376" duration="8652000" />
+      <workItem from="1701087224155" duration="646000" />
+      <workItem from="1701171380312" duration="3635000" />
+      <workItem from="1701250581441" duration="1267000" />
+      <workItem from="1701420296701" duration="2280000" />
+      <workItem from="1701442349369" duration="2257000" />
+      <workItem from="1702286534930" duration="54000" />
+      <workItem from="1702286766963" duration="7749000" />
+      <workItem from="1702639774975" duration="67000" />
+      <workItem from="1702639904885" duration="8062000" />
+      <workItem from="1703151057274" duration="39000" />
+      <workItem from="1703151184827" duration="597000" />
+      <workItem from="1703587235794" duration="4885000" />
+      <workItem from="1704889564912" duration="3616000" />
+      <workItem from="1705048537704" duration="2591000" />
+      <workItem from="1705315249181" duration="6694000" />
+      <workItem from="1706000730052" duration="13576000" />
+      <workItem from="1706079975105" duration="665000" />
     </task>
+    <task id="LOCAL-00001" summary="GB">
+      <option name="closed" value="true" />
+      <created>1698440980468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1698440980468</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +316,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="GB" />
+    <option name="LAST_COMMIT_MESSAGE" value="GB" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
@@ -206,5 +330,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
