@@ -5,7 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b44ac3f6-eeba-4cfc-b194-de90913b80d8" name="Changes" comment="GB">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm13/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm13/Sample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm13/Sample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Hm14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Homework.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Sample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Sample01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Sample02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/gb/hm14/lesson/Sample03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/config/logging.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/hm14/HM14Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/hm14/HM14V2Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ru/gb/hm14/PersonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,146 +54,156 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample01 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample01 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample01 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample01 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample01.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Sample02.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Task2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Ten.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.eleven_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.gb.hm10.lesson10.Sample.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ru.gb.hm12.lesson12.Sample01.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/ArrA/Desktop/lesson12&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Sample.executor": "Run",
+    "Application.Sample01 (1).executor": "Run",
+    "Application.Sample01 (2).executor": "Run",
+    "Application.Sample01 (3).executor": "Run",
+    "Application.Sample01 (4).executor": "Run",
+    "Application.Sample01.executor": "Run",
+    "Application.Sample02.executor": "Run",
+    "Application.Sample03.executor": "Run",
+    "Application.Task2.executor": "Run",
+    "Application.Ten.executor": "Run",
+    "Application.eleven (1).executor": "Run",
+    "Application.eleven (2).executor": "Run",
+    "Application.eleven (3).executor": "Run",
+    "Application.eleven (4).executor": "Run",
+    "Application.eleven (5).executor": "Run",
+    "Application.eleven.executor": "Run",
+    "Application.eleven_1.executor": "Run",
+    "Application.eleven_2.executor": "Run",
+    "Application.ru.gb.hm10.lesson10.Sample.executor": "Run",
+    "Application.ru.gb.hm12.lesson12.Sample01.executor": "Run",
+    "Application.ru.gb.hm14.lesson.Sample03.executor": "Run",
+    "JUnit.HM14Test.executor": "Run",
+    "JUnit.HM14Test.massTestAdd.executor": "Run",
+    "JUnit.HM14Test.testAdd.executor": "Run",
+    "JUnit.HM14Test.testMul.executor": "Run",
+    "JUnit.HM14V2Test$Process2ParameterizedTest.testProcess2.executor": "Run",
+    "JUnit.HM14V2Test.executor": "Run",
+    "JUnit.HM14V2Test.processArray1Test1.executor": "Run",
+    "JUnit.HM14V2Test.testProcess2.executor": "Run",
+    "JUnit.PersonTest.executor": "Run",
+    "JUnit.PersonTest.getAllUsersTest.executor": "Run",
+    "JUnit.PersonTest.getAllUsersV2Test.executor": "Run",
+    "JUnit.PersonTest.processArray1Test1.executor": "Run",
+    "JUnit.PersonTest.whenExceptionThrown_getErrorTest.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ArrA/Desktop/lesson12",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.ru.gb.hm12.lesson12.Sample01">
-    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.Sample01" />
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\gb\lesson 1 java\src\test\java\ru\gb\hm14" />
+      <recent name="D:\gb\lesson 1 java\src\main\resources\config" />
+      <recent name="D:\gb\lesson 1 java\src\main\java\ru\gb\hm14\lesson" />
+      <recent name="D:\gb\lesson 1 java\src\main\java\ru\gb\hm13" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.HM14V2Test.testProcess2">
+    <configuration name="HM14Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.lesson11.sample02.*" />
+          <option name="PATTERN" value="ru.gb.hm14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hm14" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm14.HM14Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.Sample01" />
+    <configuration name="HM14V2Test$Process2ParameterizedTest.testProcess2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.lesson11.sample02.*" />
+          <option name="PATTERN" value="ru.gb.hm14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hm14.HM14V2Test" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm14.HM14V2Test$Process2ParameterizedTest" />
+      <option name="METHOD_NAME" value="testProcess2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eleven (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.eleven" />
+    <configuration name="HM14V2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.*" />
+          <option name="PATTERN" value="ru.gb.hm14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hm14" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm14.HM14V2Test" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eleven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.eleven" />
+    <configuration name="HM14V2Test.processArray1Test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.*" />
+          <option name="PATTERN" value="ru.gb.hm14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hm14" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm14.HM14V2Test" />
+      <option name="METHOD_NAME" value="processArray1Test1" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="eleven_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.eleven_1" />
+    <configuration name="HM14V2Test.testProcess2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="lesson1java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.lesson11.*" />
+          <option name="PATTERN" value="ru.gb.hm14.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="eleven_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm11.lesson11.eleven_2" />
-      <module name="lesson1java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.hm11.lesson11.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ru.gb.hm12.lesson12.Sample01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ru.gb.hm12.lesson12.Sample01" />
-      <module name="lesson1java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ru.gb.hm12.lesson12.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+      <option name="PACKAGE_NAME" value="ru.gb.hm14" />
+      <option name="MAIN_CLASS_NAME" value="ru.gb.hm14.HM14V2Test" />
+      <option name="METHOD_NAME" value="testProcess2(int[],boolean)" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ru.gb.hm12.lesson12.Sample01" />
-        <item itemvalue="Application.eleven_1" />
-        <item itemvalue="Application.eleven_2" />
-        <item itemvalue="Application.eleven" />
-        <item itemvalue="Application.eleven (5)" />
+        <item itemvalue="JUnit.HM14V2Test.testProcess2" />
+        <item itemvalue="JUnit.HM14V2Test" />
+        <item itemvalue="JUnit.HM14V2Test$Process2ParameterizedTest.testProcess2" />
+        <item itemvalue="JUnit.HM14V2Test.processArray1Test1" />
+        <item itemvalue="JUnit.HM14Test" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +272,10 @@
       <workItem from="1706869565508" duration="291000" />
       <workItem from="1706869948640" duration="4350000" />
       <workItem from="1707908890095" duration="6308000" />
-      <workItem from="1707915242498" duration="416000" />
+      <workItem from="1707915242498" duration="1974000" />
+      <workItem from="1708426280261" duration="4464000" />
+      <workItem from="1708508223565" duration="10285000" />
+      <workItem from="1708598352304" duration="5356000" />
     </task>
     <task id="LOCAL-00001" summary="GB">
       <option name="closed" value="true" />
@@ -264,7 +293,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706869755022</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="GB">
+      <option name="closed" value="true" />
+      <created>1707915683246</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1707915683246</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
